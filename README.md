@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Jafert and I'm a Master student, from Colombia </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw3hMCw3gmfTD3fHrnI0-QHh&ust=1750636992445000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNim1JPdg44DFQAAAAAdAAAAABAE)"  />
 
 ###
 
